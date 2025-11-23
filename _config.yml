@@ -1,6 +1,8 @@
 # Jekyll configuration for GitHub Pages
 title: IBIMjr
 description: A lightweight implementation framework designed for learning and prototyping
+url: "https://jelvanricolcol.pro"
+baseurl: ""
 
 # Include SVG files and other assets in the build
 include:
