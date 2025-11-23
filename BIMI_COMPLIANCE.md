@@ -40,23 +40,23 @@ BIMI requires brand logos to meet specific technical requirements to be displaye
 ### 3. Public Accessibility
 
 ✅ **Publicly Accessible HTTPS URL**
-- The logo is hosted on GitHub Pages at: `https://jelvanricolcol.pro/IBIMjr.svg`
-- Alternative URL: `https://vgen-solutions-main.github.io/IBIMjr/IBIMjr.svg`
+- The logo is hosted on GitHub Pages at: `https://jelvanricolcol.pro/BIMI.svg`
+- Alternative URL: `https://vgen-solutions-main.github.io/BIMI.svg`
 - Both URLs are accessible via HTTPS
 
 ## Logo Location
 
 The BIMI-compliant SVG logo is located at:
-- **Repository path**: `/IBIMjr.svg`
-- **Public URL**: `https://jelvanricolcol.pro/IBIMjr.svg`
-- **Fallback URL**: `https://vgen-solutions-main.github.io/IBIMjr/IBIMjr.svg`
+- **Repository path**: `/BIMI.svg`
+- **Public URL**: `https://jelvanricolcol.pro/BIMI.svg`
+- **Fallback URL**: `https://vgen-solutions-main.github.io/BIMI.svg`
 
 ## BIMI DNS Record Example
 
 To use this logo in your BIMI record, add the following TXT record to your DNS:
 
 ```
-default._bimi.yourdomain.com. IN TXT "v=BIMI1; l=https://jelvanricolcol.pro/IBIMjr.svg"
+default._bimi.yourdomain.com. IN TXT "v=BIMI1; l=https://jelvanricolcol.pro/BIMI.svg"
 ```
 
 Replace `yourdomain.com` with your actual domain name.
