@@ -6,7 +6,7 @@ baseurl: ""
 
 # Include SVG files and other assets in the build
 include:
-  - IBIMjr.svg
+  - BIMI.svg
 
 # Ensure proper MIME types for SVG files
 defaults:

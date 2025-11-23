@@ -28,35 +28,35 @@ BIMI requires brand logos to meet specific technical requirements to be displaye
 - The SVG uses only basic vector shapes, no custom fonts or `@font-face` declarations
 
 ✅ **Accessibility Elements**
-- Includes `<title>` element: "IBIMjr Logo"
+- Includes `<title>` element: "JRICOLCOL"
 - Includes `<desc>` element with full description
 
 ### 2. File Size Requirements
 
 ✅ **Under 32KB**
-- Current file size: **1.2KB** (1,177 bytes)
+- Current file size: **3.2KB** (3,205 bytes)
 - Well under the recommended 32KB limit
 
 ### 3. Public Accessibility
 
 ✅ **Publicly Accessible HTTPS URL**
-- The logo is hosted on GitHub Pages at: `https://jelvanricolcol.pro/IBIMjr.svg`
-- Alternative URL: `https://vgen-solutions-main.github.io/IBIMjr/IBIMjr.svg`
+- The logo is hosted on GitHub Pages at: `https://jelvanricolcol.pro/BIMI.svg`
+- Alternative URL: `https://vgen-solutions-main.github.io/BIMI.svg`
 - Both URLs are accessible via HTTPS
 
 ## Logo Location
 
 The BIMI-compliant SVG logo is located at:
-- **Repository path**: `/IBIMjr.svg`
-- **Public URL**: `https://jelvanricolcol.pro/IBIMjr.svg`
-- **Fallback URL**: `https://vgen-solutions-main.github.io/IBIMjr/IBIMjr.svg`
+- **Repository path**: `/BIMI.svg`
+- **Public URL**: `https://jelvanricolcol.pro/BIMI.svg`
+- **Fallback URL**: `https://vgen-solutions-main.github.io/BIMI.svg`
 
 ## BIMI DNS Record Example
 
 To use this logo in your BIMI record, add the following TXT record to your DNS:
 
 ```
-default._bimi.yourdomain.com. IN TXT "v=BIMI1; l=https://jelvanricolcol.pro/IBIMjr.svg"
+default._bimi.yourdomain.com. IN TXT "v=BIMI1; l=https://jelvanricolcol.pro/BIMI.svg"
 ```
 
 Replace `yourdomain.com` with your actual domain name.
@@ -70,16 +70,16 @@ You can validate the BIMI compliance of the logo using:
 ## Logo Design
 
 The logo features:
-- A blue circular background (#2563eb with #1e40af border)
-- White "IBIM" text using simple geometric shapes
+- Multiple color layers including white, beige, orange, gray, and black
+- "JRICOLCOL" text rendered using geometric shapes
 - Clean, minimal design optimized for email display
 - Scalable vector graphics for crisp rendering at any size
 
 ## Technical Specifications
 
 - **Format**: SVG 1.2 Tiny PS
-- **Dimensions**: 200x200 viewBox
-- **File Size**: 1,177 bytes (1.2KB)
+- **Dimensions**: 300x300 viewBox
+- **File Size**: 3,205 bytes (3.2KB)
 - **Color Depth**: RGB colors
 - **Compression**: None (plain XML for maximum compatibility)
 

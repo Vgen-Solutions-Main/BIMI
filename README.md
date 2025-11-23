@@ -1,6 +1,6 @@
 # IBIMjr
 
-![IBIMjr Logo](IBIMjr.svg)
+![IBIMjr Logo](BIMI.svg)
 
 IBIMjr (IBIM Junior) is a lightweight implementation framework designed for learning and prototyping.
 
@@ -58,7 +58,8 @@ IBIMjr/
 ## Logo and BIMI Compliance
 
 The IBIMjr logo is BIMI (Brand Indicators for Message Identification) compliant and publicly accessible at:
-- `https://jelvanricolcol.pro/IBIMjr.svg`
+- `https://jelvanricolcol.pro/BIMI.svg`
+- `https://vgen-solutions-main.github.io/BIMI.svg`
 
 For detailed information about BIMI compliance, see [BIMI_COMPLIANCE.md](BIMI_COMPLIANCE.md).
 
