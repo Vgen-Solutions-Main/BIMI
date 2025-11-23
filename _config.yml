@@ -5,11 +5,6 @@ description: A lightweight implementation framework designed for learning and pr
 # Include SVG files and other assets in the build
 include:
   - "*.svg"
-  - "IBIMjr.svg"
-
-# Keep files that should be preserved during build
-keep_files:
-  - "*.svg"
 
 # Ensure proper MIME types for SVG files
 defaults:
