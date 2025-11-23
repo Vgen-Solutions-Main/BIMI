@@ -55,6 +55,13 @@ IBIMjr/
     └── test_ibim.py
 ```
 
+## Logo and BIMI Compliance
+
+The IBIMjr logo is BIMI (Brand Indicators for Message Identification) compliant and publicly accessible at:
+- `https://jelvanricolcol.pro/IBIMjr.svg`
+
+For detailed information about BIMI compliance, see [BIMI_COMPLIANCE.md](BIMI_COMPLIANCE.md).
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
