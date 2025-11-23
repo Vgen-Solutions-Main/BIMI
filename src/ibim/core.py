@@ -60,6 +60,8 @@ class IBIM:
         """
         Add a new component to the IBIM instance.
         
+        Note: If a component with the same name already exists, it will be replaced.
+        
         Args:
             name: The component name
             config: Optional configuration dictionary

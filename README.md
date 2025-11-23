@@ -42,12 +42,15 @@ ibim.process()
 IBIMjr/
 ├── README.md
 ├── requirements.txt
+├── .gitignore
 ├── src/
 │   └── ibim/
 │       ├── __init__.py
 │       └── core.py
-└── examples/
-    └── basic_usage.py
+├── examples/
+│   └── basic_usage.py
+└── tests/
+    └── test_ibim.py
 ```
 
 ## Contributing
