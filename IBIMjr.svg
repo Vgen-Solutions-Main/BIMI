@@ -3,6 +3,9 @@
   <title>IBIMjr Logo</title>
   <desc>IBIMjr (IBIM Junior) - A lightweight implementation framework designed for learning and prototyping</desc>
   
+  <!-- Solid Background (BIMI requirement) -->
+  <rect x="0" y="0" width="200" height="200" fill="#2563eb"/>
+  
   <!-- Background Circle -->
   <circle cx="100" cy="100" r="90" fill="#2563eb" stroke="#1e40af" stroke-width="4"/>
   
