@@ -1,0 +1,34 @@
+# Jekyll configuration for GitHub Pages
+title: IBIMjr
+description: A lightweight implementation framework designed for learning and prototyping
+url: "https://jelvanricolcol.pro"
+baseurl: ""
+
+# Include SVG files and other assets in the build
+include:
+  - IBIMjr.svg
+
+# Ensure proper MIME types for SVG files
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# GitHub Pages settings
+plugins:
+  - jekyll-relative-links
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Build settings
+exclude:
+  - requirements.txt
+  - "*.py"
+  - tests/
+  - src/
+  - examples/

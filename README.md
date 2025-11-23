@@ -1,5 +1,7 @@
 # IBIMjr
 
+![IBIMjr Logo](IBIMjr.svg)
+
 IBIMjr (IBIM Junior) is a lightweight implementation framework designed for learning and prototyping.
 
 ## Overview
