@@ -1,0 +1,38 @@
+# Jekyll configuration for GitHub Pages
+title: IBIMjr
+description: A lightweight implementation framework designed for learning and prototyping
+
+# Include SVG files and other assets in the build
+include:
+  - "*.svg"
+  - "IBIMjr.svg"
+
+# Keep files that should be preserved during build
+keep_files:
+  - "*.svg"
+
+# Ensure proper MIME types for SVG files
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# GitHub Pages settings
+remote_theme: null
+plugins:
+  - jekyll-relative-links
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Build settings
+exclude:
+  - requirements.txt
+  - "*.py"
+  - tests/
+  - src/
+  - examples/
