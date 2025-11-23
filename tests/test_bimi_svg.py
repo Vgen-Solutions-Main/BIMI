@@ -143,7 +143,7 @@ def test_svg_has_solid_background():
     namespace = {'svg': 'http://www.w3.org/2000/svg'}
     rects = root.findall('.//svg:rect', namespace)
     if not rects:
-        rects = [child for child in root if 'rect' in child.tag.lower()]
+        rects = [child for child in root if child.tag.endswith('rect')]
     
     # Check if there's a background rect
     has_background = False
